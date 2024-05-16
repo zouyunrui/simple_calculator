@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/11 09:50:32.000.509,=C:\Users\datam\Documents\RAD Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2024/05/13 14:57:54.000.145,=C:\Users\datam\Documents\RAD Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2024/05/13 16:09:04.000.699,=C:\Users\datam\Documents\RAD Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2024/05/13 20:00:44.000.205,C:\Users\datam\Desktop\简单计算器\Unit6.dfm=C:\Users\datam\Documents\RAD Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2024/05/13 20:00:44.000.205,C:\Users\datam\Desktop\简单计算器\Unit6.pas=C:\Users\datam\Documents\RAD Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2024/05/13 20:00:57.000.288,C:\Users\datam\Desktop\简单计算器\Project15.dproj=C:\Users\datam\Documents\RAD Studio\Projects\Project15.dproj</Transaction>
+    <Transaction>2024/05/14 08:51:06.000.370,C:\Users\datam\Desktop\简单计算器\calculator.dproj=C:\Users\datam\Desktop\简单计算器\Project15.dproj</Transaction>
+    <Transaction>2024/05/14 09:05:33.000.898,C:\Users\datam\Desktop\简单计算器\calculator.dproj=C:\Users\datam\Desktop\计算器\calculator.dproj</Transaction>
+    <Transaction>2024/05/14 09:06:03.000.826,C:\Users\datam\Desktop\简单计算器\Unit6.dfm=C:\Users\datam\Desktop\计算器\calculator.dfm</Transaction>
+    <Transaction>2024/05/14 09:06:03.000.826,C:\Users\datam\Desktop\简单计算器\Unit6.pas=C:\Users\datam\Desktop\计算器\calculator.pas</Transaction>
+    <Transaction>2024/05/14 09:48:53.000.891,C:\Users\datam\Desktop\计算器\Calculator.pas=C:\Users\datam\Desktop\计算器\Unit6.pas</Transaction>
+    <Transaction>2024/05/14 09:48:53.000.891,C:\Users\datam\Desktop\计算器\Calculator.dfm=C:\Users\datam\Desktop\计算器\Unit6.dfm</Transaction>
+    <Transaction>2024/05/14 09:49:41.000.948,C:\Users\datam\Desktop\计算器\Unit6.dfm=C:\Users\datam\Desktop\计算器\calculor.dfm</Transaction>
+    <Transaction>2024/05/14 09:49:41.000.948,C:\Users\datam\Desktop\计算器\Unit6.pas=C:\Users\datam\Desktop\计算器\calculor.pas</Transaction>
+    <Transaction>2024/05/14 10:58:14.000.461,C:\Users\datam\Desktop\计算器\calculator.pas=C:\Users\datam\Desktop\计算器\calculor.pas</Transaction>
+    <Transaction>2024/05/14 10:58:14.000.439,C:\Users\datam\Desktop\计算器\calculor.dfm=C:\Users\datam\Desktop\计算器\calculator.dfm</Transaction>
+    <Transaction>2024/05/14 10:58:14.000.461,C:\Users\datam\Desktop\计算器\calculator.dfm=C:\Users\datam\Desktop\计算器\calculor.dfm</Transaction>
+    <Transaction>2024/05/14 10:58:14.000.439,C:\Users\datam\Desktop\计算器\calculor.pas=C:\Users\datam\Desktop\计算器\calculator.pas</Transaction>
+  </Transactions>
+</BorlandProject>
